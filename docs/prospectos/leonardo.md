@@ -2,8 +2,9 @@
  - Tema:
    - Extensão de software/bibliotecas matemáticas existentes para cálculos na área de GeoFísica
  - Motivações:
-   - Possui dois projetos prontos que precisam ser melhorados/estendidos
-   - MatCUDA: biblioteca para auxiliar em cálculos matemáticos, com GPU
+   - Possui dois projetos prontos que precisam ser melhorados/estendidos:
+     - [MatCUDA](https://github.com/leomiquelutti/matCUDA): biblioteca para auxiliar em cálculos algébricos, com GPU, imitando MatLab em C++
+     - [mtaas](https://github.com/leomiquelutti/mtaas): início de um projeto SaaS para processamento de dados de um método geofísico
    - Criar um instalador para os sotwares
    - Permitir seleção do alvo para processamento (GPU ou CPU)
    - Pré-processamento de dados brutos coletados por estações
