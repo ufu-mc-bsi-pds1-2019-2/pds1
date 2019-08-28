@@ -9,6 +9,6 @@
    - Pré-processamento de dados brutos coletados por estações
   - Questões mais úteis no roteiro: não houve nenhuma específica, conversa foi guiada pelo professor
  - Tempo: ~50min
- - Referências: disponibilizadas: github e suporte pessoal
+ - Referências: github e suporte pessoal
  - Sistemas similares: o software existente é muito caro e inviabiliza a compra individual
  - Aplicação/Público Alvo: disponibilizar código aberto, porém restrito à área do professor (Geofísica)
