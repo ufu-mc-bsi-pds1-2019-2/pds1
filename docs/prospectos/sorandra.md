@@ -1,0 +1,14 @@
+### prof. Sorandra C. Lima (Grupo 2)
+- Tema:
+  - Coleta de dados de canteiros hidráulicos
+  - Apoio a construção de canteiros hidráulico com material reciclável?
+- Questões mais úteis no roteiro: Q6
+- Referências: disponíveis
+- Tempo: 30~35min
+- Sistemas similares: não foi falado, mas acha que não há nada para ensino
+- Aplicação/Público Alvo: apoio ao ensino de alunos de graduação
+- Abrangência: inicialmente, uso local/regional, pode ser expandido
+- O que mais motivou a escolha:
+  - Familiaridade c/ tecnologia -> website
+  - Domínio do professor sobre o tema
+  - Entusiasmo dos membros para fazer algo útil p/ meio acadêmico

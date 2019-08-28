@@ -1,0 +1,11 @@
+### Wagner
+ - Tema:
+   - Software para pre-processamento de dados brutos de informações de GPS
+ - Referências: pendente
+ - Questões mais úteis no roteiro: ?
+ - Tempo: 30~35min
+ - Sistemas similares: não tem no Brasil, há um sistema incompleto do aluno
+ - Aplicação/Público Alvo: Uso pessoal (professor), analistas da área
+ - O que desmotivou a escolha:
+   - Público alvo mais restrito
+   - Tempo de desenvolvimento poderia ser grande

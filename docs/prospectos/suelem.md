@@ -1,0 +1,13 @@
+### Suelem
+ - Tema:
+   - Reprodução de um software comercial para análise de dados de estações totais
+ - Questões mais úteis no roteiro: Q3*, desenvolvimento de software similar
+ - Referências: ok
+ - Tempo: 30~35min
+ - Sistemas similares: TopoGraf, não sabe se há opção de código aberto
+ - Aplicação/Público Alvo: alunos/professores, voltado para ensino
+ - Abrangência: inicialmente pensou em uso local
+ - O que desmotivou a escolha:
+   - Falta de clareza na exposição da necessidade
+   - Complexidade da solução
+   - Custo e tempo p/ desenvolvimento

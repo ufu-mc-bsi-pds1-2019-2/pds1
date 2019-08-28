@@ -1,0 +1,15 @@
+### Luziane
+  - Tema:
+     - Geração de mapas setoriais com informações cartográficas
+  - Motivações/Justificativas
+    - Falta de plano diretor de Monte Carmelo
+    - Falta de setorização da cidade
+ - Questões mais úteis no roteiro: ?
+ - Referências: pendente
+ - Tempo: 30~35min
+ - Sistemas similares: existem alguns não aplicáveis para a região/cidade
+ - Aplicação/Público Alvo: Público em geral e prefeitura
+ - O que mais motivou a escolha:
+   - Tema interessante
+   - Benefício grande p/ população
+   - Objetividade na exposição da necessidade
