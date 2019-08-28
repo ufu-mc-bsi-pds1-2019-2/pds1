@@ -1,4 +1,4 @@
-### Wagner
+### prof. Wagner Carrupt (Grupo 3)
  - Tema:
    - Software para pre-processamento de dados brutos de informações de GPS
  - Referências: pendente

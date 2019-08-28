@@ -1,4 +1,4 @@
-### Leonardo Miquelutti
+### prof. Leonardo Miquelutti (Grupo 2)
  - Tema:
    - Extensão de software/bibliotecas matemáticas existentes para cálculos na área de GeoFísica
  - Motivações:

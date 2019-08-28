@@ -1,4 +1,4 @@
-### Luziane
+### prof. Luziane Indjai (Grupo 3)
   - Tema:
      - Geração de mapas setoriais com informações cartográficas
   - Motivações/Justificativas

@@ -1,4 +1,4 @@
-### Suelem
+### prof. Suelem Farias (Grupo 2)
  - Tema:
    - Reprodução de um software comercial para análise de dados de estações totais
  - Questões mais úteis no roteiro: Q3*, desenvolvimento de software similar
