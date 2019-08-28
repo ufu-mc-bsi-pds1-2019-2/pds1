@@ -2,9 +2,9 @@
  - Tema:
    - Mobilidade Urbana
 - Propostas
-   - 1) Controle de qualidade para sinalização urbana
-   - 2) Aplicativo p/ ônibus, acompanhamento de rotas, tempos, horários, forma de condução, etc
-   - 3) Controle de qualidade das calçadas
+   1) Controle de qualidade para sinalização urbana
+   2) Aplicativo p/ ônibus, acompanhamento de rotas, tempos, horários, forma de condução, etc
+   3) Controle de qualidade das calçadas
  - Tempo de reunião: ~50min
  - Questões mais úteis no roteiro: Q1 e Q4
  - Referências: disponíveis, pegar com professora
