@@ -1,41 +1,48 @@
 ## Fechamento do Product Backlog:
  - [ ] Principais estórias definidas e elaboradas
-   - [ ] INVEST
-     - [ ] I = Independente
-     - [ ] N = Negociável
-     - [ ] V = Valorosa
-     - [ ] E = Estimável
-     - [ ] S = Small -> Pequena
-     - [ ] T = Testável
-   - [ ] 3C's
-     - [ ] Card
-       - [ ] Modelo de título
-     - [ ] Conversation
-       - [ ] Detalhamento
-     - [ ] Confirmation
-       - [ ] Critérios de Aceitação
+   - INVEST
+     - I = Independent (Independente)
+     - N = Negotiable (Negociável)
+     - V = Valuable (Valorosa ou Relevante)
+     - E = Estimable (Estimável)
+     - S = Small (Pequena)
+     - T = Testable (Testável)
+   - 3C's
+     - Card
+       - Modelo de título
+     - Conversation
+       - Detalhamento
+     - Confirmation
+       - Critérios de Aceitação
  - [ ] Tarefas
-   - [ ] SMART
-     - [ ] S = Specific
-     - [ ] M = Measurable
-     - [ ] A = Achievable
-     - [ ] R = Relevant
-     - [ ] T = Time-bound
- - [ ] Estimativas de pontos feitas para estórias e de horas para as tarefas
- - [ ] Dependências criadas e atribuídas
+   - SMART
+     - S = Specific (Especifica)
+     - M = Measurable (Mensurável)
+     - A = Achievable (Atingível ou Realizável)
+     - R = Relevant (Relevante)
+     - T = Time-bound (Prazo limite)
+ - [ ] Reavaliar a hierarquia e dimensões das estórias
    - [ ] Epic
+      - Há estórias que deveriam ser consideradas Epics e quebradas em várias?
+      - Há estórias que poderiam ser agrupadas em torno de uma Epic?
    - [ ] Tarefas
+      - Há estórias que deveriam ser tarefas?
+      - Há tarefas que poderiam ser reescritas como estórias?
  - [ ] Modelos complementares criados para 4 estórias
    - [ ] Diagrama de atividades com fluxo de execução ou regras de negócio
    - [ ] Modelo E-R ilustrando conceitos do domínio
    - [ ] Protótipos de interface com o usuário
    - [ ] Critérios de aceitação bem definidos e orientando a validação da estória
+ - [ ] Dependências criadas e atribuídas
+   - Identificar quais estórias/tarefas geram relações de dependência ou poderiam bloqueiam outras
  - [ ] Prioridades e valor das estórias definidas e validadas com o especialista no domínio / Product Owner
-   - [ ] MoSCoW
-     - [ ] M = Must
-     - [ ] S = Should
-     - [ ] C = Could
-     - [ ] W = Would
+   - MoSCoW
+     - M = Must
+     - S = Should
+     - C = Could
+     - W = Would
+ - [ ] Estimativas de pontos feitas para estórias e de horas para as tarefas
+   - Após as atualizações das estórias, revisar as estimativas usando as estratégias vistas (Planning Poker e/ou Complexity Bucket)
 ## Revisar issues anteriores e corrigir/complementar documentos criados:
    - [ ] Visão e caso de negócio
    - [ ] Riscos
