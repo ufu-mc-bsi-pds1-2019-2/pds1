@@ -1,0 +1,44 @@
+## Fechamento do Product Backlog:
+ - [ ] Principais estórias definidas e elaboradas
+   - [ ] INVEST
+     - [ ] I = Independente
+     - [ ] N = Negociável
+     - [ ] V = Valorosa
+     - [ ] E = Estimável
+     - [ ] S = Small -> Pequena
+     - [ ] T = Testável
+   - [ ] 3C's
+     - [ ] Card
+       - [ ] Modelo de título
+     - [ ] Conversation
+       - [ ] Detalhamento
+     - [ ] Confirmation
+       - [ ] Critérios de Aceitação
+ - [ ] Tarefas
+   - [ ] SMART
+     - [ ] S = Specific
+     - [ ] M = Measurable
+     - [ ] A = Achievable
+     - [ ] R = Relevant
+     - [ ] T = Time-bound
+ - [ ] Estimativas de pontos feitas para estórias e de horas para as tarefas
+ - [ ] Dependências criadas e atribuídas
+   - [ ] Epic
+   - [ ] Tarefas
+ - [ ] Modelos complementares criados para 4 estórias
+   - [ ] Diagrama de atividades com fluxo de execução ou regras de negócio
+   - [ ] Modelo E-R ilustrando conceitos do domínio
+   - [ ] Protótipos de interface com o usuário
+   - [ ] Critérios de aceitação bem definidos e orientando a validação da estória
+ - [ ] Prioridades e valor das estórias definidas e validadas com o especialista no domínio / Product Owner
+   - [ ] MoSCoW
+     - [ ] M = Must
+     - [ ] S = Should
+     - [ ] C = Could
+     - [ ] W = Would
+## Revisar issues anteriores e corrigir/complementar documentos criados:
+   - [ ] Visão e caso de negócio
+   - [ ] Riscos
+   - [ ] Minutas
+   - [ ] Diagrama de casos uso
+   - [ ] Glossário
