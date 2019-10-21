@@ -1,4 +1,4 @@
-# Feedback Preliminar Geral (Sprint #1)
+# Feedback Geral (Sprint #1)
 
 ## Pontos positivos para ressaltar:
  - Estamos diante de problemas reais e passíveis de ter uma solução baseada em software;
@@ -77,3 +77,12 @@
   - Importante conhecer e usar os recursos (Issues, Pull Requests, Comentários, Labels, Commits, etc);
   - Importante manter a organização e consistências (pastas, documentação, código, etc).
 
+## Considerações relativas aos questionários
+  - Cuidado ao apontar que os objetivos foram alcançados! A noção de "feito" indicado para itens de uma Sprint (estórias e tarefas) valem aqui também!
+  - Há certa confusão no entendimento da diferença entre "super-estimado" (estimativa inicial maior do que a necessidade real) e "sub-estimado" (estimativa inicial menor do que a necessidade real);
+  - As informações no repositório (ZenHub) devem estar atualizadas e, principalmente, consistentes com a realidade e com o que é apresentado pelo grupo;
+  - Pontos (estórias) e horas (tarefas) concluídas só devem ser considerados se não houver nada mais a ser feito em relação aquele item! Novamente, sinceridade e transparência é essencial!
+  - Importante: manter o estado real do projeto em sincronia com o que é registrado no repositório (ZenHub).
+  - Relativo a comunicação com o professor colaborador... respeitado os limites e a disponibilidade para colaborar, a equipe é livre para negociar com o professor outras formas complementares para comunicação;
+  - Maiores dificuldades apontadas: Grupo 1 - Projeto e Programação; Grupo 2 - Análise de Requisitos (traduzir requisitos em estórias), Projeto, Programação; Grupo 3 - Análise de Requisitos, Programação;
+  - Problemas apontados: tarefas mal-estimadas (especialmente, sub-estimadas), dificuldade na análise de requisitos, dificuldade em filtrar as informações passadas pelo colaborador especialista no domínio.
