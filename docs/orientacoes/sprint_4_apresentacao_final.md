@@ -83,3 +83,8 @@ Orientações para Sprint 4 e apresentação final
     - Evitar descrições e referências genéricas;
     - Evitar dividir demais as estórias e tarefas.
 ---
+## Ordem de Apresentação (segunda, 16/12/19, 1BMC201)
+---	
+1. Grupo 2: 13:10 até 13:55 (prof. Wagner)
+2. Grupo 3: 13:55 até 14:40 (prof. Luziane)
+3. Grupo 1: 14:40 até 15:25 (prof. Luciany)
